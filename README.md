@@ -18,7 +18,7 @@ This project was developed as part of my final group project at the NorthCoders 
 - Mongoose
 - Testing: Jest & Supertest
 
-## Team members
+## Other team members
 
 - [Rogerio Soares](https://github.com/RogerioSoares96)
 - [Matt Bishop](https://github.com/Nanobot1514)
