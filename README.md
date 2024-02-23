@@ -2,11 +2,10 @@
 
 DevCards is a full-stack application designed to help developers of all skill levels review, practice, and master programming concepts at their own pace.
 
-This project was developed as part of my final group project at the NorthCoders Software Engineering bootcamp. The REST API was hosted on [Render](https://dev-cards.onrender.com).
+This project was developed as part of my final group project at the NorthCoders Software Engineering bootcamp. The REST API was hosted on [Render](https://dev-cards.onrender.com). 
+Note: The API is hosted on a free-tier plan, which may result in longer initial load times as the server spins up
 
 [Frontend repo](https://github.com/reemhd/DevCards-Frontend)
-
-[Video demo](https://www.youtube.com/watch?v=bIy8yAFeY64)
 
 ## Tech Stack
 
